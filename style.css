@@ -1,0 +1,30 @@
+body {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid red;
+    background-color: aliceblue;
+}
+
+.heading{
+    text-align: center;
+}
+
+.cube-div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    line-height: 70px;
+    /* align-items: flex-end; */
+    /* align-content: space-evenly; */
+}
+
+.area {
+    width: 70px;
+    height: 70px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    font-size: 2em;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    /* text-align: center; */
+}
